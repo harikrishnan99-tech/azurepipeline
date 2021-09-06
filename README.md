@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/U95145/Team%20DevOps/_apis/build/status/harikrishnan99-tech.azurepipeline?branchName=master)](https://dev.azure.com/U95145/Team%20DevOps/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
